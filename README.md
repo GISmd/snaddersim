@@ -5,7 +5,11 @@ A snakes and ladders simulator! The goal is to build a realistic simulator of th
 
 ## Reference
 
-http://www.datagenetics.com/blog/november12011/
+- http://www.datagenetics.com/blog/november12011/
+- https://github.com/arryanggaputra/SnakeAndLadder
+- https://gist.github.com/kbroman/5600209
+
+...wtf is a trasition matrix...
 
 ## To do
 
