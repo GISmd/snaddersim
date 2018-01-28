@@ -1,4 +1,5 @@
-# snaddersim
+# snaddersim - 28 Jan 2018
+
 ## Description
 A snakes and ladders simulator! The goal is to build a realistic simulator of the Snakes and Ladders board game and incorporate any number of players.
 
