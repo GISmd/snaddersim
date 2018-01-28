@@ -47,7 +47,7 @@ def run_snaddersims(sims = 10000):
         results.append(playgame_1player())
     return results
 
-results = run_snaddersims(100000)
+results = run_snaddersims(1000000)
 df = pandas.DataFrame(results)
 df.hist()
 df.plot.box()
