@@ -5,6 +5,8 @@ Created on Sat Jan 27 11:38:47 2018
 @author: smmcdeid
 
 Our snakes and ladders simulator
+
+
 """
 
 import random
@@ -51,3 +53,4 @@ results = run_snaddersims(1000000)
 df = pandas.DataFrame(results)
 df.hist()
 df.plot.box()
+df.plot.density()
