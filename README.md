@@ -9,7 +9,7 @@ A snakes and ladders simulator! The goal is to build a realistic simulator of th
 - https://github.com/arryanggaputra/SnakeAndLadder
 - https://gist.github.com/kbroman/5600209
 
-...wtf is a trasition matrix...
+What is a trasition matrix...
 
 ## To do
 
